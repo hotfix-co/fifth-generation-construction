@@ -1,6 +1,6 @@
 baseURL = "https://fifth-generation.netlify.app/"
 title = "Fifth Generation Construction"
-theme = "PaperMod"
+theme = "ananke"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
 

@@ -12,11 +12,6 @@ cover:
   relative: false
 ---
 
-# Willkommen bei Fifth Generation Construction
-
-Wir sind ein zukunftsorientiertes Unternehmen, spezialisiert auf die **Implementierung von 5G-Netzen** und den **Ausbau moderner Internetinfrastrukturen** in ganz Deutschland.
-
----
 
 ## Was wir tun
 

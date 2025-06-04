@@ -6,12 +6,6 @@ showBreadcrumb: false
 hideTitle: false
 ---
 
-# Dobrodošli u Fifth Generation Construction
-
-Mi smo moderno orijentirana tvrtka specijalizirana za **implementaciju 5G mreža** i **razvoj suvremene internetske infrastrukture** širom Njemačke.
-
----
-
 ## Što radimo
 
 - Izgradnja i modernizacija mobilnih i optičkih mreža  

@@ -6,12 +6,6 @@ showBreadcrumb: false
 hideTitle: false
 ---
 
-# Welcome to Fifth Generation Construction
-
-We are a forward-thinking company specializing in the **implementation of 5G networks** and the **development of modern internet infrastructure** across Germany.
-
----
-
 ## What We Do
 
 - Construction and modernization of mobile and fiber optic networks  
