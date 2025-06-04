@@ -27,6 +27,13 @@ defaultContentLanguageInSubdir = true
   ShowBreadCrumbs = true
   defaultTheme = "light"
 
+  [params.cover]
+    show = true
+    image = "/images/hero.png"
+    alt = "Fifth Generation Construction – 5G Infrastruktur"
+    caption = "Zukunft bauen mit 5G – Fifth Generation Construction"
+    linkFullImages = false
+
 [menu]
   [[menu.main]]
     name = "Home"

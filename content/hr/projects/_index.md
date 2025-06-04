@@ -7,7 +7,7 @@ title: "Projekti"
 ### UKB | Sveučilišna bolnica Bonn  
 Opremili smo šest zgrada u ovom bolničkom kompleksu najmodernijom 5G infrastrukturom.
 
-![UKB Logo](images/ukb-logo.png)
+![UKB Logo](/images/ukb-bonn.webp)
 
 ---
 
@@ -15,7 +15,7 @@ Opremili smo šest zgrada u ovom bolničkom kompleksu najmodernijom 5G infrastru
 
 Implementacija 5G mrežne infrastrukture na stadionu.
 
-![BVB Logo](images/bvb-logo.png)
+![BVB Logo](/images/bvb-stadium.jpg)
 
 ---
 
@@ -23,4 +23,4 @@ Implementacija 5G mrežne infrastrukture na stadionu.
 
 Najmodernija mrežna infrastruktura za lokaciju Liebherr.
 
-![Liebherr Logo](images/liebherr-logo.png)
+![Liebherr Logo](/images/liebherr.jpg)

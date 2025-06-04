@@ -7,7 +7,7 @@ title: "Projekte"
 ### UKB | Universitätsklinikum Bonn  
 Sechs Gebäude in diesem Krankenhauskomplex wurden von uns mit modernster 5G-Infrastruktur ausgestattet.
 
-![UKB Logo](images/ukb-logo.png)
+![UKB Logo](/images/ukb-bonn.webp)
 
 ---
 
@@ -15,7 +15,7 @@ Sechs Gebäude in diesem Krankenhauskomplex wurden von uns mit modernster 5G-Inf
 
 Implementierung der 5G-Netzwerkinfrastruktur im Stadion.
 
-![BVB Logo](images/bvb-logo.png)
+![BVB Logo](/images/bvb-stadium.jpg)
 
 ---
 
@@ -23,4 +23,4 @@ Implementierung der 5G-Netzwerkinfrastruktur im Stadion.
 
 Hochmoderne Netzwerk-Infrastruktur für den Standort von Liebherr.
 
-![Liebherr Logo](images/liebherr-logo.png)
+![Liebherr Logo](/images/liebherr.jpg)

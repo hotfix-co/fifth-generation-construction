@@ -1,11 +1,50 @@
 ---
 title: "Willkommen bei Fifth Generation Construction"
+description: "Experten für 5G-Netzwerke und Internetinfrastruktur – in Partnerschaft mit VDL Netzwerk Projekt Service GmbH"
+date: 2025-06-04
+showBreadcrumb: false
+hideTitle: false
+
+cover:
+  image: "/images/hero.png"
+  alt: "Fifth Generation Construction – 5G Infrastruktur"
+  caption: "Zukunft bauen mit 5G – Fifth Generation Construction"
+  relative: false
 ---
 
 # Willkommen bei Fifth Generation Construction
 
-Wir sind spezialisiert auf die Implementierung von 5G-Netzen und den Aufbau von Internetinfrastrukturen.
+Wir sind ein zukunftsorientiertes Unternehmen, spezialisiert auf die **Implementierung von 5G-Netzen** und den **Ausbau moderner Internetinfrastrukturen** in ganz Deutschland.
 
-Unser größter Partner ist die Firma **VDL Netzwerk Projekt Service GmbH**.
+---
 
-Unsere Mission ist es, zukunftssichere Kommunikationsnetzwerke zu schaffen, die Unternehmen und Gemeinden verbinden.
+## Was wir tun
+
+- Aufbau und Modernisierung von Mobilfunk- und Glasfasernetzen  
+- Technische Planung, Projektsteuerung und Umsetzung  
+- Nachhaltige, leistungsstarke Netzwerklösungen für Unternehmen, Städte und Gemeinden  
+
+---
+
+## Unser Partner
+
+Unser wichtigster Partner ist die Firma:
+
+**VDL Netzwerk Projekt Service GmbH**
+
+Gemeinsam realisieren wir anspruchsvolle Infrastrukturprojekte mit höchster Qualität und Zuverlässigkeit.
+
+---
+
+## Unsere Mission
+
+Wir glauben an eine vernetzte Zukunft.  
+Unsere Mission ist es, **zukunftssichere Kommunikationsnetzwerke** zu schaffen, die Menschen, Unternehmen und Gemeinden effizient miteinander verbinden.
+
+---
+
+## Kontakt
+
+Haben Sie Fragen oder möchten mit uns zusammenarbeiten?  
+[Kontaktieren Sie uns »](/contact/)
+

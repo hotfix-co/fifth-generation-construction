@@ -7,7 +7,7 @@ title: "Projects"
 ### UKB | University Hospital Bonn  
 We equipped six buildings in this hospital complex with state-of-the-art 5G infrastructure.
 
-![UKB Logo](images/ukb-logo.png)
+![UKB Logo](/images/ukb-bonn.webp)
 
 ---
 
@@ -15,7 +15,7 @@ We equipped six buildings in this hospital complex with state-of-the-art 5G infr
 
 Implementation of 5G network infrastructure at the stadium.
 
-![BVB Logo](images/bvb-logo.png)
+![BVB Logo](/images/bvb-stadium.jpg)
 
 ---
 
@@ -23,4 +23,4 @@ Implementation of 5G network infrastructure at the stadium.
 
 State-of-the-art network infrastructure for Liebherr’s location.
 
-![Liebherr Logo](images/liebherr-logo.png)
+![Liebherr Logo](/images/liebherr.jpg)
