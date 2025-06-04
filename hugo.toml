@@ -1,0 +1,49 @@
+baseURL = "https://example.com/"
+title = "Fifth Generation Construction"
+theme = "PaperMod"
+defaultContentLanguage = "de"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.de]
+    weight = 1
+    languageName = "Deutsch"
+    title = "Fifth Generation Construction"
+    contentDir = "content/de"
+
+  [languages.en]
+    weight = 2
+    languageName = "English"
+    contentDir = "content/en"
+
+  [languages.hr]
+    weight = 3
+    languageName = "Hrvatski"
+    contentDir = "content/hr"
+
+[params]
+  ShowShareButtons = false
+  ShowReadingTime = false
+  ShowBreadCrumbs = true
+  defaultTheme = "light"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
