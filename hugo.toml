@@ -35,22 +35,63 @@ defaultContentLanguageInSubdir = true
     linkFullImages = false
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
+
+  [[languages.de.menu.main]]
+    name = "Startseite"
+    url = "/de/"
     weight = 1
 
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+  [[languages.de.menu.main]]
+    name = "Projekte"
+    url = "/de/projects/"
     weight = 2
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
+  [[languages.de.menu.main]]
+    name = "Über uns"
+    url = "/de/about/"
     weight = 3
 
-  [[menu.main]]
+  [[languages.de.menu.main]]
+    name = "Kontakt"
+    url = "/de/contact/"
+    weight = 4
+
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "/en/"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    name = "Projects"
+    url = "/en/projects/"
+    weight = 2
+
+  [[languages.en.menu.main]]
+    name = "About"
+    url = "/en/about/"
+    weight = 3
+
+  [[languages.en.menu.main]]
     name = "Contact"
-    url = "/contact/"
+    url = "/en/contact/"
+    weight = 4
+
+  [[languages.hr.menu.main]]
+    name = "Početna"
+    url = "/hr/"
+    weight = 1
+
+  [[languages.hr.menu.main]]
+    name = "Projekti"
+    url = "/hr/projects/"
+    weight = 2
+
+  [[languages.hr.menu.main]]
+    name = "O nama"
+    url = "/hr/about/"
+    weight = 3
+
+  [[languages.hr.menu.main]]
+    name = "Kontakt"
+    url = "/hr/contact/"
     weight = 4
