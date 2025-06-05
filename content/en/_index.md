@@ -4,6 +4,8 @@ description: "Experts in 5G networks and internet infrastructure – in partners
 date: 2025-06-04
 showBreadcrumb: false
 hideTitle: false
+
+featured_image: "/images/hero.png"
 ---
 
 ## What We Do

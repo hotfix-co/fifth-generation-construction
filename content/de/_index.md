@@ -5,11 +5,7 @@ date: 2025-06-04
 showBreadcrumb: false
 hideTitle: false
 
-cover:
-  image: "/images/hero.png"
-  alt: "Fifth Generation Construction – 5G Infrastruktur"
-  caption: "Zukunft bauen mit 5G – Fifth Generation Construction"
-  relative: false
+featured_image: "/images/hero.png"
 ---
 
 

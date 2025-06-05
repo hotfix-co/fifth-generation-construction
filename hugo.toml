@@ -26,6 +26,8 @@ defaultContentLanguageInSubdir = true
   ShowReadingTime = false
   ShowBreadCrumbs = true
   defaultTheme = "light"
+  featured_image_class = "cover bg-center"
+  cover_dimming_class = "bg-black-90"
 
   [params.cover]
     show = true
@@ -35,6 +37,12 @@ defaultContentLanguageInSubdir = true
     linkFullImages = false
 
 [menu]
+
+  [[menu.main]]
+    identifier = "fallback"
+    name = "Menu"
+    url = "/"
+    weight = 1
 
   [[languages.de.menu.main]]
     name = "Startseite"

@@ -4,6 +4,8 @@ description: "Stručnjaci za 5G mreže i internetsku infrastrukturu – u partne
 date: 2025-06-04
 showBreadcrumb: false
 hideTitle: false
+
+featured_image: "/images/hero.png"
 ---
 
 ## Što radimo
