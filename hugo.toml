@@ -26,8 +26,8 @@ defaultContentLanguageInSubdir = true
   ShowReadingTime = false
   ShowBreadCrumbs = true
   defaultTheme = "light"
-  featured_image_class = "cover bg-center"
-  cover_dimming_class = "bg-black-90"
+  featured_image_class = "bg-start"
+  cover_dimming_class = "bg-black-80"
 
   [params.cover]
     show = true
