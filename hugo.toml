@@ -1,5 +1,5 @@
 baseURL = "https://fifth-generation.netlify.app/"
-title = "Fifth Generation Construction"
+title = "Fifth Generation"
 theme = "ananke"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = true
   [languages.de]
     weight = 1
     languageName = "Deutsch"
-    title = "Fifth Generation Construction"
+    title = "Fifth Generation"
     contentDir = "content/de"
 
   [languages.en]
@@ -32,8 +32,8 @@ defaultContentLanguageInSubdir = true
   [params.cover]
     show = true
     image = "/images/hero.png"
-    alt = "Fifth Generation Construction – 5G Infrastruktur"
-    caption = "Zukunft bauen mit 5G – Fifth Generation Construction"
+    alt = "Fifth Generation – 5G Infrastruktur"
+    caption = "Zukunft bauen mit 5G – Fifth Generation"
     linkFullImages = false
 
 [menu]

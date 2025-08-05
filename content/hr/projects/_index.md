@@ -2,16 +2,35 @@
 title: "Projekti"
 ---
 
-## Ključni projekti
+### Naš tim i rad u akciji
 
-### UKB | Sveučilišna bolnica Bonn  
-Opremili smo šest zgrada u ovom bolničkom kompleksu najmodernijom 5G infrastrukturom.
+#### Radnik Fifth Generation
+
+Član tima s službenom majicom Fifth Generation, ponosno predstavljajući naš brend.
+
+![Fifth Generation Worker](/images/fifth-gen-tshirt.jpeg)
+
+---
+
+#### Gradilište
+
+Postavljanje 5G mreže na gradilištu, što pokazuje našu predanost vrhunskoj infrastrukturi.
+
+![Construction Site](/images/fifth-gen-construction.jpeg)
+
+---
+
+### Ključni projekti
+
+#### UKB | Sveučilišna bolnica Bonn
+
+Opremili smo šest zgrada u ovom bolničkom kompleksu vrhunskom 5G infrastrukturom.
 
 ![UKB Logo](/images/ukb-bonn.webp)
 
 ---
 
-### Stadion BVB Borussia Dortmund  
+#### Stadion BVB Borussia Dortmund
 
 Implementacija 5G mrežne infrastrukture na stadionu.
 
@@ -19,8 +38,10 @@ Implementacija 5G mrežne infrastrukture na stadionu.
 
 ---
 
-### Tvornica Liebherr Ehingen  
+#### Tvornica Liebherr Ehingen
 
-Najmodernija mrežna infrastruktura za lokaciju Liebherr.
+Najmodernija mrežna infrastruktura za lokaciju tvrtke Liebherr.
 
 ![Liebherr Logo](/images/liebherr.jpg)
+
+---

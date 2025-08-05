@@ -1,39 +1,37 @@
 ---
-title: "Dobrodošli u Fifth Generation Construction"
-description: "Stručnjaci za 5G mreže i internetsku infrastrukturu – u partnerstvu s VDL Netzwerk Projekt Service GmbH"
+title: "Dobrodošli u Fifth Generation"
+description: "Stručnjaci za 5G mreže i internetsku infrastrukturu"
 date: 2025-06-04
 showBreadcrumb: false
 hideTitle: false
-
 featured_image: "/images/hero.png"
 ---
 
-## Što radimo
+## 🔧 Što radimo
 
-- Izgradnja i modernizacija mobilnih i optičkih mreža  
-- Tehničko planiranje, upravljanje projektima i implementacija  
-- Održiva i visokoučinkovita mrežna rješenja za poduzeća, gradove i općine  
+**Fifth Generation** pruža vrhunske usluge u području moderne telekomunikacijske infrastrukture, uključujući:
 
----
-
-## Naš partner
-
-Naš glavni partner je tvrtka:
-
-**VDL Netzwerk Projekt Service GmbH**
-
-Zajedno realiziramo zahtjevne infrastrukturne projekte s najvišom razinom kvalitete i pouzdanosti.
+- Izgradnju i modernizaciju **mobilnih** i **optičkih** mreža  
+- Tehničko planiranje, upravljanje projektima i potpunu implementaciju sustava  
+- Razvoj **održivih**, **visokoučinkovitih** mrežnih rješenja za poduzeća, gradove i općine  
 
 ---
 
-## Naša misija
+## 🎯 Naša misija
 
-Vjerujemo u povezanu budućnost.  
-Naša misija je stvaranje **komunikacijskih mreža otpornih na buduće izazove** koje učinkovito povezuju ljude, poduzeća i zajednice.
+Vjerujemo u **povezanu, pametnu i održivu budućnost**.  
+Naša misija je stvaranje **infrastrukture otporne na buduće izazove**, koja povezuje ljude, poduzeća i zajednice — brzo, pouzdano i sigurno.
 
 ---
 
-## Kontakt
+## 🤝 Naše partnerstvo
 
-Imate li pitanja ili želite surađivati s nama?  
-[Kontaktirajte nas »](/contact/)
+U partnerstvu smo s **VDL Netzwerk Projekt Service GmbH**, njemačkom tvrtkom specijaliziranom za projektiranje i realizaciju telekomunikacijskih rješenja na najvišoj razini.  
+Zajedno omogućujemo širenje i modernizaciju mrežne infrastrukture diljem Europe.
+
+---
+
+## 📞 Kontakt
+
+Imate pitanja ili želite saznati više o suradnji?  
+➡️ [Kontaktirajte nas »](/contact/)

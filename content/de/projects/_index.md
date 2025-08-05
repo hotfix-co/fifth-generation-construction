@@ -2,16 +2,35 @@
 title: "Projekte"
 ---
 
-## Wichtige Projekte
+### Unser Team & Arbeit in Aktion
 
-### UKB | Universitätsklinikum Bonn  
-Sechs Gebäude in diesem Krankenhauskomplex wurden von uns mit modernster 5G-Infrastruktur ausgestattet.
+#### Mitarbeiter von Fifth Generation
+
+Ein Teammitglied trägt das offizielle Fifth Generation T-Shirt und repräsentiert stolz unsere Marke.
+
+![Fifth Generation Worker](/images/fifth-gen-tshirt.jpeg)
+
+---
+
+#### Baustelle
+
+Installation des 5G-Netzes auf einer Baustelle, die unser Engagement für modernste Infrastruktur zeigt.
+
+![Construction Site](/images/fifth-gen-construction.jpeg)
+
+---
+
+### Schlüsselprojekte
+
+#### UKB | Universitätsklinikum Bonn
+
+Wir haben sechs Gebäude dieses Krankenhauskomplexes mit modernster 5G-Infrastruktur ausgestattet.
 
 ![UKB Logo](/images/ukb-bonn.webp)
 
 ---
 
-### Stadion BVB Borussia Dortmund  
+#### BVB Borussia Dortmund Stadion
 
 Implementierung der 5G-Netzwerkinfrastruktur im Stadion.
 
@@ -19,8 +38,10 @@ Implementierung der 5G-Netzwerkinfrastruktur im Stadion.
 
 ---
 
-### Liebherr Werk Ehingen  
+#### Liebherr Werk Ehingen
 
-Hochmoderne Netzwerk-Infrastruktur für den Standort von Liebherr.
+Modernste Netzwerkinfrastruktur für den Standort von Liebherr.
 
 ![Liebherr Logo](/images/liebherr.jpg)
+
+---

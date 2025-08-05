@@ -1,39 +1,37 @@
 ---
-title: "Welcome to Fifth Generation Construction"
-description: "Experts in 5G networks and internet infrastructure – in partnership with VDL Netzwerk Projekt Service GmbH"
+title: "Welcome to Fifth Generation"
+description: "Experts in 5G networks and internet infrastructure"
 date: 2025-06-04
 showBreadcrumb: false
 hideTitle: false
-
 featured_image: "/images/hero.png"
 ---
 
-## What We Do
+## 🔧 What We Do
 
-- Construction and modernization of mobile and fiber optic networks  
-- Technical planning, project management, and execution  
-- Sustainable, high-performance network solutions for businesses, cities, and municipalities  
+**Fifth Generation** offers top-tier services in modern telecommunications infrastructure, including:
 
----
-
-## Our Partner
-
-Our key partner is:
-
-**VDL Netzwerk Projekt Service GmbH**
-
-Together, we deliver complex infrastructure projects with the highest standards of quality and reliability.
+- Construction and modernization of **mobile** and **optical** networks  
+- Technical planning, project management, and full system implementation  
+- Development of **sustainable**, **high-performance** network solutions for businesses, cities, and municipalities  
 
 ---
 
-## Our Mission
+## 🎯 Our Mission
 
-We believe in a connected future.  
-Our mission is to build **future-proof communication networks** that efficiently connect people, businesses, and communities.
+We believe in a **connected, smart, and sustainable future**.  
+Our mission is to create **infrastructure resilient to future challenges**, connecting people, businesses, and communities — fast, reliable, and secure.
 
 ---
 
-## Contact
+## 🤝 Our Partnership
 
-Have questions or want to work with us?  
-[Contact us »](/contact/)
+We are proud partners of **VDL Netzwerk Projekt Service GmbH**, a German company specializing in designing and delivering cutting-edge telecommunications solutions.  
+Together, we enable the expansion and modernization of network infrastructure across Europe.
+
+---
+
+## 📞 Contact
+
+Have questions or want to learn more about collaboration?  
+➡️ [Contact Us »](/contact/)
