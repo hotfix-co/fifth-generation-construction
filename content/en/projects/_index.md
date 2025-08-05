@@ -12,14 +12,6 @@ A team member wearing the official Fifth Generation T-shirt, proudly representin
 
 ---
 
-#### Construction Site
-
-5G network installation at a construction site, demonstrating our commitment to cutting-edge infrastructure.
-
-![Construction Site](/images/fifth-gen-construction.jpeg)
-
----
-
 ### Key Projects
 
 #### UKB | University Hospital Bonn

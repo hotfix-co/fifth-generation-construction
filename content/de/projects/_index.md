@@ -12,14 +12,6 @@ Ein Teammitglied trägt das offizielle Fifth Generation T-Shirt und repräsentie
 
 ---
 
-#### Baustelle
-
-Installation des 5G-Netzes auf einer Baustelle, die unser Engagement für modernste Infrastruktur zeigt.
-
-![Construction Site](/images/fifth-gen-construction.jpeg)
-
----
-
 ### Schlüsselprojekte
 
 #### UKB | Universitätsklinikum Bonn

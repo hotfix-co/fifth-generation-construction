@@ -12,14 +12,6 @@ title: "Projekti"
 
 ---
 
-#### Gradilište
-
-Postavljanje 5G mreže na gradilištu, što pokazuje našu predanost vrhunskoj infrastrukturi.
-
-![Construction Site](/images/fifth-gen-construction.jpeg)
-
----
-
 ### Ključni projekti
 
 #### UKB | Sveučilišna bolnica Bonn
