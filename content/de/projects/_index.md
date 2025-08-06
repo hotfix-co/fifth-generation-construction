@@ -22,7 +22,7 @@ Wir haben sechs Gebäude dieses Krankenhauskomplexes mit modernster 5G-Infrastru
 
 ---
 
-#### BVB Borussia Dortmund Stadion
+#### Signal Iduna Park Stadion
 
 Implementierung der 5G-Netzwerkinfrastruktur im Stadion.
 

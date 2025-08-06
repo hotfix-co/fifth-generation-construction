@@ -22,7 +22,7 @@ We equipped six buildings in this hospital complex with state-of-the-art 5G infr
 
 ---
 
-#### BVB Borussia Dortmund Stadium
+#### Signal Iduna Park Stadium
 
 Implementation of 5G network infrastructure at the stadium.
 

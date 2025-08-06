@@ -22,7 +22,7 @@ Opremili smo šest zgrada u ovom bolničkom kompleksu vrhunskom 5G infrastruktur
 
 ---
 
-#### Stadion BVB Borussia Dortmund
+#### Stadion Signal Iduna Park
 
 Implementacija 5G mrežne infrastrukture na stadionu.
 
