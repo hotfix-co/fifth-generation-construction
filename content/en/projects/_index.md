@@ -4,9 +4,9 @@ title: "Projects"
 
 ### Our Team & Work in Action
 
-#### Fifth Generation Worker
+### Cologne Subway – Project Worker  
 
-A team member wearing the official Fifth Generation T-shirt, proudly representing our brand.
+Our team contributes to the construction of the Cologne subway with dedication and expertise.
 
 ![Fifth Generation Worker](/images/fifth-gen-tshirt.jpeg)
 

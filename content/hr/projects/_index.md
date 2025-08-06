@@ -4,9 +4,9 @@ title: "Projekti"
 
 ### Naš tim i rad u akciji
 
-#### Radnik Fifth Generation
+### Podzemna željeznica u Kölnu – Radnik na projektu  
 
-Član tima s službenom majicom Fifth Generation, ponosno predstavljajući naš brend.
+Naš tim doprinosi izgradnji kolnske podzemne željeznice s predanošću i stručnošću.
 
 ![Fifth Generation Worker](/images/fifth-gen-tshirt.jpeg)
 

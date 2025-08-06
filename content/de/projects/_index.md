@@ -4,9 +4,9 @@ title: "Projekte"
 
 ### Unser Team & Arbeit in Aktion
 
-#### Mitarbeiter von Fifth Generation
+### U-Bahn in Köln – Projektmitarbeiter  
 
-Ein Teammitglied trägt das offizielle Fifth Generation T-Shirt und repräsentiert stolz unsere Marke.
+Unser Team trägt mit Engagement und Fachkompetenz zum Bau der Kölner U-Bahn bei.
 
 ![Fifth Generation Worker](/images/fifth-gen-tshirt.jpeg)
 
