@@ -6,7 +6,7 @@ title: "Projekti"
 
 ### Podzemna željeznica u Kölnu – Radnik na projektu  
 
-Naš tim doprinosi izgradnji kolnske podzemne željeznice s predanošću i stručnošću.
+Specijalizirani radovi na projektu kölnske podzemne željeznice.
 
 ![Fifth Generation Worker](/images/fifth-gen-tshirt.jpeg)
 
