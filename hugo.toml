@@ -26,12 +26,10 @@ defaultContentLanguageInSubdir = true
   ShowReadingTime = false
   ShowBreadCrumbs = true
   defaultTheme = "light"
-  featured_image_class = "bg-top"
-  cover_dimming_class = "bg-black-80"
 
   [params.cover]
     show = true
-    image = "/images/hero.png"
+    image = "/images/shutterstock_hero.jpg"
     alt = "Fifth Generation – 5G Infrastruktur"
     caption = "Zukunft bauen mit 5G – Fifth Generation"
     linkFullImages = false
