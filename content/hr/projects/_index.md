@@ -2,9 +2,7 @@
 title: "Projekti"
 ---
 
-### Naš tim i rad u akciji
-
-### Podzemna željeznica u Kölnu – Radnik na projektu  
+### Naš tim primjenjuje vrhunska tehnička rješenja na svakom koraku
 
 Specijalizirani radovi na projektu kölnske podzemne željeznice.
 
